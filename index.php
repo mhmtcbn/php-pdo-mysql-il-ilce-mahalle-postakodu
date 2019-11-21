@@ -8,7 +8,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12"><h1>PHP PDO ve MySQL ile il ilçe seçme</h1><hr></div>
+        <div class="col-md-12"><h1>PHP PDO ve MySQL ile İl, İlçe, Mahalle, Posta Kodu Seçme</h1><hr></div>
 
         <div class="col-md-3">
             <label for="konum_il">İl</label>
