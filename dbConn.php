@@ -9,7 +9,7 @@ class dbConn
     public function __construct()
     {
         try{
-            self::$db = new PDO("mysql:host=localhost;dbname=firmalistele;charset=utf8", "ajilpuqf", "drtipy98");
+            self::$db = new PDO("mysql:host=localhost;dbname=wrwett3423;charset=utf8", "ajilpuqf", "drtipy98");
         }
         catch (PDOException $exception)
         {
