@@ -3,4 +3,4 @@ Bu proje <a href="https://github.com/anarsamadov">anarsamadov</a>'un <a href="ht
 
 Konu linki için <a href="http://www.onlineogren.com/php-ve-ajax-ile-dinamik-bolge-il-ve-ilce-uygulamasi-yapmak.html">buraya</a> tıklayın.
 
-SQL tablosu için veriler PTT'nin <a href="http://postakodu.ptt.gov.tr/">Posya Kodu Sorgulama</a> sayfasından alınmıştır.
+SQL tablosu için veriler PTT'nin <a href="http://postakodu.ptt.gov.tr/">Posta Kodu Sorgulama</a> sayfasından alınmıştır.
